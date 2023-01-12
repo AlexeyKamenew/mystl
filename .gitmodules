@@ -1,0 +1,3 @@
+[submodule "test/std-compliance"]
+	path = test/std-compliance
+	url = git@github.com:AlexeyKamenew/std-compliance.git
